@@ -1,12 +1,13 @@
-![logo](_media/icon.svg)
+![logo](media/icon.svg)
 
-# docsify <small>4.12.2</small>
+# dingcode <small>0.9.0</small>
 
-> A magical documentation site generator.
+> Simple graphical AI solutions by behaviour tree
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Cross-Platform ediotr include: Windows(32/64), MacOS, Linux
+- Multi-GameEngine support include: cocos creator, unity
+- Easy extends editor by **lua**
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/dwbmio/dingcode-docs) \
+[Downlaod Editor](https://www.baidu.com)
+[Getting Started](#readme)
