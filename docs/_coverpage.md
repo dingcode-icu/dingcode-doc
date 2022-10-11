@@ -1,6 +1,6 @@
 ![logo](media/icon_m.svg)
 
-# dingcode <small>0.9.0</small>
+# dingcode <small>0.1.0 beta</small>
 
 > Simple graphical AI solutions by behaviour tree
 
