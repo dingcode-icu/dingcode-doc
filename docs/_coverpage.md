@@ -6,7 +6,6 @@
 
 - Cross-Platform Editor supported: Windows(32/64), MacOS, Linux
 - Multi-GameEngine support include: cocos creator, unity
-- Easy extends editor by **lua** 
 
 <mark>:lantern:Internal beta version in high speed iteration,  use with cautionpr in poduction environment!</mark>
 
